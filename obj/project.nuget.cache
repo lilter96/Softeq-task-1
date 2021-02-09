@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3qnJ+s++Bnn+kMrKHPjNQiK4xzYJoklErUGIShhjJtdLvvR/EvifvukcGBkl9av1w9GrST9HpkSHTzbF6mDL4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lilter69\\source\\repos\\rabota\\rabota.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lilter69\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

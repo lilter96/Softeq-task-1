@@ -1,0 +1,15 @@
+C:\Users\lilter69\source\repos\rabota\bin\Debug\netcoreapp3.1\rabota.exe
+C:\Users\lilter69\source\repos\rabota\bin\Debug\netcoreapp3.1\rabota.deps.json
+C:\Users\lilter69\source\repos\rabota\bin\Debug\netcoreapp3.1\rabota.runtimeconfig.json
+C:\Users\lilter69\source\repos\rabota\bin\Debug\netcoreapp3.1\rabota.runtimeconfig.dev.json
+C:\Users\lilter69\source\repos\rabota\bin\Debug\netcoreapp3.1\rabota.dll
+C:\Users\lilter69\source\repos\rabota\bin\Debug\netcoreapp3.1\rabota.pdb
+C:\Users\lilter69\source\repos\rabota\obj\Debug\netcoreapp3.1\rabota.csprojAssemblyReference.cache
+C:\Users\lilter69\source\repos\rabota\obj\Debug\netcoreapp3.1\rabota.AssemblyInfoInputs.cache
+C:\Users\lilter69\source\repos\rabota\obj\Debug\netcoreapp3.1\rabota.AssemblyInfo.cs
+C:\Users\lilter69\source\repos\rabota\obj\Debug\netcoreapp3.1\rabota.csproj.CoreCompileInputs.cache
+C:\Users\lilter69\source\repos\rabota\obj\Debug\netcoreapp3.1\rabota.dll
+C:\Users\lilter69\source\repos\rabota\obj\Debug\netcoreapp3.1\rabota.pdb
+C:\Users\lilter69\source\repos\rabota\obj\Debug\netcoreapp3.1\rabota.genruntimeconfig.cache
+C:\Users\lilter69\source\repos\rabota\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lilter69\source\repos\rabota\obj\Debug\netcoreapp3.1\rabota.csproj.CopyComplete
